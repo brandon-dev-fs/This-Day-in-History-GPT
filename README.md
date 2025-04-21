@@ -1,2 +1,2 @@
-# This Month in History GPT
- Get a generated summary of a particular month in time based on the NY Times archieves
+# This Day in History GPT
+ Get a generated summary of the news for a particular day via the NY Times Archieve
