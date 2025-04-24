@@ -1,6 +1,6 @@
 # This Day in History GPT
 
-Get a generated summary of the news for a particular day via the NY Times Archieve API  
+Generate summaries of the news for any particular day.  
 ![Powered by NY Times Branding](/src/assets/images/poweredby_nytimes_65a.png)
 
 ## Overview
