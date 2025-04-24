@@ -1,4 +1,3 @@
-import json
 from dotenv import load_dotenv
 
 from module_articles.get_articles import get_articles

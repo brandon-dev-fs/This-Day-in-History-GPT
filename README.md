@@ -24,6 +24,8 @@ Add a `.env` file with the following keys
 
 Create a virtual enviornment `python -m venv venv`
 
+Activate your virtual enviornment `venv\Scripts\activate.bat`
+
 Install Packages `pip install -r requirements.txt`
 
 To run the code, from the base directory run `python -m src\__main__.py`
