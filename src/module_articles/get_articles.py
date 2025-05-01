@@ -16,7 +16,5 @@ def get_articles(date):
     else: 
         articles = call_nyt_api(date)
         write_articles_file(path, articles)
-    
-    print(type(articles))
 
     return filter_articles(articles, date.day)

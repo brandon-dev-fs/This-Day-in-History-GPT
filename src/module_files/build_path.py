@@ -5,7 +5,7 @@ from modules_dates.get_month_name import get_month_name
 
 def build_path(type, date):
     print("Building path... ")
-    path = Path.cwd() / type
+    path = Path.cwd() / "src" / "outputs" / type
 
     # Checks if type path exists. If not makes the directory for the type
     if not os.path.exists(path):
@@ -17,6 +17,6 @@ def build_path(type, date):
         path.mkdir()
 
     # returns a path with the file int the file to be read and/or written in its file path
-    filename = f"{get_month_name(int(date.month))}" if type =="articles" else f"{get_month_name(int(date.month))}" + "_{type}.json"
+    filename = f"{get_month_name(int(date.month))}" if type =="articles" else f"{get_month_name(int(date.month))}" + f"_{type}.json"
     return path / filename
     
