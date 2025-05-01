@@ -25,7 +25,7 @@ Add a `.env` file with the following keys
 `OPENAI_MODEL={openai_model}`  
 `NYT_API_KEY={nytimes_api_key}`
 
-Add an empty directory `output` under `src`
+Add an empty directory `/outputs` under `/src`
 
 Create a virtual enviornment `python -m venv venv`
 
