@@ -14,8 +14,6 @@ This is a basic python console application that utilizes the NY Times Archieve A
 - [Anthropic API Key](https://docs.anthropic.com/en/api/getting-started) | [API Pricing](https://www.anthropic.com/pricing#api)
 - or [OpenAI API Key](https://platform.openai.com/docs/api-reference/introduction) | [API Pricing](https://openai.com/api/pricing/)
 
-> :memo: **Note:** OpenAI is not yet supported
-
 ### Getting Started
 
 Clone the repository
