@@ -25,6 +25,8 @@ Add a `.env` file with the following keys
 `OPENAI_MODEL={openai_model}`  
 `NYT_API_KEY={nytimes_api_key}`
 
+Add an empty directory `output` under `src`
+
 Create a virtual enviornment `python -m venv venv`
 
 Activate your virtual enviornment `venv\Scripts\activate.bat`
