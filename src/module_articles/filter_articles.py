@@ -28,4 +28,6 @@ def filter_articles(articles, day):
             }
             news.append(news_article)
     
+    print(f"Found {len(news)} articles")
+
     return news

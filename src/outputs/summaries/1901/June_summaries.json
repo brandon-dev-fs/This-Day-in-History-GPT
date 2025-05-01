@@ -1,0 +1,159 @@
+{
+  "date": "1901-06-28",
+  "summary": "June 28, 1901, was marked by significant financial turbulence as the Seventh National Bank of New York suspended operations, sparking official statements and concerns about banking practices. Reform and political unrest were prominent, with a massive town meeting in Philadelphia demanding change from 'boss' rule. Internationally, disorder was reported in Manchuria, and Cuba saw recommendations for universal suffrage. A variety of local incidents, from daring rescues to tragic accidents, as well as social, sporting, and cultural happenings, rounded out the day's news.",
+  "top_story": {
+    "headline": "SEVENTH NATIONAL BANK SUSPENDS; Unable to Meet Obligations and Controller's Requirements.",
+    "summary": "The Seventh National Bank of New York has failed to meet its obligations and regulatory requirements, resulting in its suspension. The incident has prompted scrutiny of the bank's methods, which have been described as unbusinesslike. Officials, including Controller Dawes, have issued statements explaining the conditions leading to the closure."
+  },
+  "other_top_stories": [
+    {
+      "headline": "PHILADELPHIA'S REVOLT AGAINST 'BOSS' RULE; In Town Meeting Thousands Declare for Reform.",
+      "summary": "Over 10,000 Philadelphians, including a significant number of women, gathered at a town meeting to demand reform and renominate P. Fred Rothermel Jr. for District Attorney, signaling a major push against entrenched political interests."
+    },
+    {
+      "headline": "DISORDER IN MANCHURIA.; Bandits Said to Have Seized Four Cities -- Report About New Russo-Chinese Negotiations Denied.",
+      "summary": "Reports indicate widespread disorder in Manchuria, with bandits seizing several cities. Meanwhile, rumors of new Russo-Chinese negotiations have been denied."
+    },
+    {
+      "headline": "ELECTION LAW FOR CUBA.; Universal Suffrage and the Australian Ballot Recommended by Electoral Commission.",
+      "summary": "The Electoral Commission has recommended the adoption of universal suffrage and the Australian ballot for Cuba, signaling significant political changes on the island."
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Finance & Economy",
+      "stories": [
+        {
+          "headline": "SEVENTH NATIONAL BANK SUSPENDS; Unable to Meet Obligations and Controller's Requirements.",
+          "summary": "The Seventh National Bank of New York has failed to meet its obligations and regulatory requirements, resulting in its suspension. The incident has prompted scrutiny of the bank's methods, which have been described as unbusinesslike."
+        },
+        {
+          "headline": "STATEMENT BY MR. DAWES.; Why Conditions Which Led to Bank's Closing Were Imposed.",
+          "summary": "Controller Dawes provided an official statement explaining the circumstances that led to the closure of the Seventh National Bank."
+        },
+        {
+          "headline": "PHILADELPHIA PRICES.",
+          "summary": "Philadelphia's market mirrored New York's decline and recovery, with the asphalt group advancing on favorable news from Venezuela. Heavy trading in Reading issues led to declines despite recent statements."
+        },
+        {
+          "headline": "BOSTON STOCK MARKET.",
+          "summary": "Boston's Clearing House saw active trading, with money loaned at 2 percent between banks and New York funds at par."
+        },
+        {
+          "headline": "THE LONDON MARKET.",
+          "summary": "London's financial markets experienced high demand for money, with the Bank of England charging 4 percent for loans, causing discontent among brokers."
+        }
+      ]
+    },
+    {
+      "topic": "Politics & Reform",
+      "stories": [
+        {
+          "headline": "PHILADELPHIA'S REVOLT AGAINST 'BOSS' RULE; In Town Meeting Thousands Declare for Reform.",
+          "summary": "A massive town meeting of over 10,000 citizens demanded political reform and supported the renomination of reform candidate P. Fred Rothermel Jr."
+        },
+        {
+          "headline": "ELECTION LAW FOR CUBA.; Universal Suffrage and the Australian Ballot Recommended by Electoral Commission.",
+          "summary": "Universal suffrage and the Australian ballot system are recommended for Cuba, a move toward more inclusive and fair elections."
+        },
+        {
+          "headline": "INDICTMENTS MAY FOLLOW INVESTIGATION; Inquiry Into Purchase of Fire Department Supplies Ended.",
+          "summary": "An investigation into fire department supply purchases has concluded, with possible indictments for Scannell and Marks."
+        },
+        {
+          "headline": "THE IDEAL IN POLITICS; Wayne MacVeagh Speaks of Problems of the Future.",
+          "summary": "Wayne MacVeagh delivered a Phi Beta Kappa oration discussing future political challenges and ideals."
+        }
+      ]
+    },
+    {
+      "topic": "International Affairs",
+      "stories": [
+        {
+          "headline": "DISORDER IN MANCHURIA.; Bandits Said to Have Seized Four Cities -- Report About New Russo-Chinese Negotiations Denied.",
+          "summary": "Bandits have reportedly seized four cities in Manchuria, amid denials of new Russo-Chinese negotiations."
+        },
+        {
+          "headline": "A GERMAN WARNING.",
+          "summary": "Von Peez issued a warning considered worth heeding, indicating international tensions."
+        },
+        {
+          "headline": "CHINESE OFFICIAL A SUICIDE.; Report of the Occurrence Also Indicates that the Court Does Not Mean to Return to Peking Yet.",
+          "summary": "A Chinese official's suicide is seen as a sign that the Imperial court does not intend to return to Peking soon."
+        }
+      ]
+    },
+    {
+      "topic": "Crime & Legal Affairs",
+      "stories": [
+        {
+          "headline": "ARSON ARRESTS IN CHICAGO.; Two More Men in Custody -- Forty Others Will Be Apprehended.",
+          "summary": "Arson arrests continue in Chicago as part of a crackdown on insurance fire fraud."
+        },
+        {
+          "headline": "JESSIE MORRISON GUILTY.; Jury in Case of Woman Accused of Killing Her Rival Was Out Thirty Hours.",
+          "summary": "Jessie Morrison has been found guilty after a lengthy jury deliberation in a Kansas murder case."
+        },
+        {
+          "headline": "FIVE YEARS FOR BARKER.",
+          "summary": "Barker received a five-year sentence at hard labor, with no fine but required to pay prosecution costs."
+        }
+      ]
+    },
+    {
+      "topic": "Accidents & Local Incidents",
+      "stories": [
+        {
+          "headline": "RISKED LIFE TO SAVE CHILD; Leaped Over Trolley Car Dashboard and Stood Upon Fender.",
+          "summary": "A dramatic rescue occurred in Brooklyn, where a man saved a four-year-old boy from being run over by a trolley car."
+        },
+        {
+          "headline": "CHILD PERISHES IN A FIRE.; Breaks from Grasp of Would-Be Rescuer -- Her Mother and a Bloomfield Fireman Injured.",
+          "summary": "A fire in Bloomfield, NJ, caused by an oil stove explosion, resulted in the death of a child and injuries to her mother and a fireman."
+        },
+        {
+          "headline": "DROWNED WHILE SWIMMING.; Bather at Dyker Beach Loses His Life -- Two Narrow Escapes at Coney Island.",
+          "summary": "A swimmer drowned at Dyker Beach, with two other near-fatal incidents at Coney Island."
+        }
+      ]
+    },
+    {
+      "topic": "Sports",
+      "stories": [
+        {
+          "headline": "YALE BEAT HARVARD IN ANNUAL BOAT RACE; 'Varsity Eights in Magnificent Struggle from Start to Finish.",
+          "summary": "Yale triumphed over Harvard in the annual varsity boat race, a closely contested event celebrated enthusiastically in New Haven."
+        },
+        {
+          "headline": "Yale Celebrates Her Victory.",
+          "summary": "Yale's victory on the Thames was celebrated with great enthusiasm by the college and town."
+        },
+        {
+          "headline": "YESTERDAY'S BASEBALL GAMES; Local Nines Change Places -- New York Won and Lost -- Brooklyn Beat Pittsburg.",
+          "summary": "New York and Cincinnati split their baseball games at the Polo Grounds, affecting league standings as Brooklyn beat Pittsburgh."
+        },
+        {
+          "headline": "American Tennis Players Win.",
+          "summary": "American tennis players, including A.W. Gore, excelled at Wimbledon."
+        }
+      ]
+    },
+    {
+      "topic": "Society & Culture",
+      "stories": [
+        {
+          "headline": "WHAT IS DOING IN SOCIETY.",
+          "summary": "The heat kept many New Yorkers in the suburbs, while Mrs. Letter prepared for a trip to England to visit Lady Curzon."
+        },
+        {
+          "headline": "FAMOUS CONTRALTO IN SERIOUS RUNAWAY; Mme. Schumann-Heink's Narrow Escape in a Race for Steamer.",
+          "summary": "Famed contralto Mme. Schumann-Heink narrowly escaped injury in a runaway carriage incident."
+        },
+        {
+          "headline": "PICTURE BRINGS $77,500.; Hoppner's Portrait of Lady Louisa Manners Sold at Auction in London for 14,750 Guineas.",
+          "summary": "Hoppner's portrait of Lady Louisa Manners fetched a high price at a London auction."
+        }
+      ]
+    }
+  ]
+}

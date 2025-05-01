@@ -17,6 +17,6 @@ def build_path(type, date):
         path.mkdir()
 
     # returns a path with the file int the file to be read and/or written in its file path
-    filename = f"{get_month_name(int(date.month))}" if type =="articles" else f"{get_month_name(int(date.month))}" + f"_{type}.json"
+    filename = f"{get_month_name(int(date.month))}_{type}.json"
+
     return path / filename
-    

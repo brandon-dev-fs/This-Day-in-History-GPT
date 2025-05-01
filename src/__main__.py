@@ -17,6 +17,7 @@ def main():
         output = get_articles(date)
         if(len(output) > 0):
             summary = ""
+            print("Generating summary...")
             match model:
                 case 1:
                     summary = openai_get_summary(output)

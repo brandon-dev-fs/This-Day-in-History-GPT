@@ -1,0 +1,96 @@
+{
+  "date": "November 5, 1975",
+  "summary": "On November 5, 1975, the nation saw significant political developments with women making historic gains as lieutenant governors in Kentucky and Mississippi. New York City's fiscal crisis dominated national discourse, with Federal Reserve Chairman Arthur Burns expressing skepticism about federal aid despite polls showing most Americans believed a NYC default would have national economic consequences. President Ford's recent Cabinet shake-up continued to reverberate, with Vice President Rockefeller announcing he would campaign for Ford in 1976 despite removing himself from consideration as a running mate. In international news, Lebanon saw a fragile peace take hold in Beirut after weeks of factional fighting, while Spain's General Franco was in grave condition following surgery. Domestically, voters in New York and New Jersey rejected Equal Rights Amendments to their state constitutions, dealing a blow to the national ERA movement. The business world saw modest gains in the stock market and American auto sales increased for the first time in two years.",
+  "top_story": {
+    "headline": "BURNS STILL BARS U.S. AID FOR CITY; But He IS More Concerned Now Than 3 Weeks Ago�House Action Slated",
+    "summary": "Federal Reserve Chairman Arthur F. Burns testified that he was 'not yet convinced that the need is clear' for Federal financial aid to New York City, though he expressed more concern than previously about the possible consequences of default. Burns questioned pessimistic predictions about default's impact, doubting reports that European financial circles expected worldwide repercussions. He dismissed fears that default would seriously disrupt other cities' ability to borrow, though he acknowledged the effect on the national economy would be 'clearly negative.'"
+  },
+  "other_top_stories": [
+    {
+      "headline": "CITY DEFIES TREND",
+      "summary": "Equal Rights Amendments to the State Constitutions of New York and New Jersey were defeated despite strong support in New York City. The amendments maintained a big lead in NYC, but the margin was not enough to offset a 60-to-40 defeat upstate. These defeats were seen as having a significant psychological impact on the lagging national effort to pass an amendment to the Federal Constitution."
+    },
+    {
+      "headline": "Rockefeller to Campaign For Ford, Officials Assert",
+      "summary": "Vice President Rockefeller, who had told President Ford he did not want to be considered as a running mate on the Republican ticket in 1976, would reportedly campaign actively for Ford's nomination. Rockefeller's decision was linked to hostility he provoked among influential right-wing Republican circles, and it had already improved Ford's chances of turning back a Reagan challenge."
+    },
+    {
+      "headline": "2 Women Chosen Lieutenant Governors; Rizzo Re-elected, White Narrowly Wins",
+      "summary": "In an off-year election, voters across the country elected women as lieutenant governors of Kentucky and Mississippi, re-elected the Democratic governor of Kentucky, and turned the Mississippi governor's race into a cliffhanger. Philadelphia Mayor Frank Rizzo easily won re-election, and Boston Mayor Kevin White narrowly defeated his challenger."
+    },
+    {
+      "headline": "Wary Citizens of Beirut Venture Into Streets as Shooting Fades",
+      "summary": "The security situation in Beirut improved, encouraging Lebanese to venture onto streets. Gunmen began abandoning positions in the heart of town and suburbs as Premier Rashid Karami announced that a security 'coordinating committee' had started collecting heavy weapons from combatants. The Lebanese Army stationed 300 men in the business center, though banks and most shops remained closed despite Karami's appeal to businessmen."
+    }
+  ],
+  "topics": [
+    {
+      "topic": "Politics and Government",
+      "articles": [
+        {
+          "headline": "Senator Church Rejects Request by Ford That Panel Keep Secret Its Report on C.I.A. Assassination Plots",
+          "summary": "Senator Frank Church, accusing the Ford Administration of attempting to obstruct the Senate Select Intelligence committee's investigation of Federal intelligence agencies, formally rejected President Ford's request that the committee keep secret its findings of CIA involvement in attempts to assassinate foreign heads of state."
+        },
+        {
+          "headline": "RIZZO EASY VICTOR IN PHILADELPHIA",
+          "summary": "Democratic Mayor Frank L. Rizzo of Philadelphia easily won re-election over Charles W. Bowser, a black candidate of the Philadelphia party, and Councilman Thomas Foglietta, Republican. Rizzo's victory laid the foundation for his take-over of the local Democratic machine, dominated for years by Peter J. Camiel."
+        },
+        {
+          "headline": "BUSH SENATE RACE FACING SCRUTINY",
+          "summary": "Ambassador George Bush's 1970 Texas Senate campaign and other political activities were likely to be scrutinized during his confirmation hearings for CIA Director. Senate sources said that a transfer of $40,000 from President Nixon's illegal 'Townhouse' campaign financing operation to Bush's campaign might attract attention."
+        }
+      ]
+    },
+    {
+      "topic": "Economy and Business",
+      "articles": [
+        {
+          "headline": "A NEW NOTE PLAN STUDIED BY M.A.C.",
+          "summary": "The Municipal Assistance Corporation, in a move to rescue NYC from bankruptcy and relieve it of its crushing debt burden, was considering a proposal to make it mandatory for holders of $1.4 billion in city notes to exchange them for longer-term securities. Chairman Felix G. Rohatyn said chances of success for the 3-year plan were slim."
+        },
+        {
+          "headline": "NEW-CAR SALES UP 23% IN OCTOBER",
+          "summary": "U.S. new-car sales in October, after a 2-year decline, topped the same month of 1974 by 23.3%. It was the first time since September 1973 that sales exceeded the same month the year before. Domestic sales totaled 773,623, compared with 627,521 the previous October."
+        },
+        {
+          "headline": "Con Ed Warns Ford of Impact Default Would Have on Utility",
+          "summary": "Consolidated Edison Co. warned President Ford of the 'devastating' effects a NYC default would have, potentially forcing the utility to halt basic services to city and state agencies or to withhold much of $400 million it pays in state and city taxes."
+        }
+      ]
+    },
+    {
+      "topic": "International Affairs",
+      "articles": [
+        {
+          "headline": "Francs Shows Signs of Phlebitis After Surgery to Repair Artery",
+          "summary": "Spanish General Francisco Franco, in grave condition after prolonged internal bleeding, was reported officially to be recuperating from an operation that repaired a burst artery. Prince Juan Carlos de Borbon, who took over power on October 30 on an interim basis, could not become king until Franco died or was proclaimed 'incapacitated'."
+        },
+        {
+          "headline": "Soviet Hints Approval of Ford Moves",
+          "summary": "The Soviet press took a cautious, wait-and-see stand on President Ford's Cabinet shuffle but indicated that the ouster of Defense Secretary James Schlesinger was welcome. Western European newspapers had mixed reactions, with some scoring Schlesinger's removal as potentially bad for NATO."
+        },
+        {
+          "headline": "U.S. PLAN TO QUIT ASSAYED BY I.L.O.",
+          "summary": "International Labor Organization officials reportedly believed Middle East and other developments might determine whether the US withdrawal threat would be carried out. The US contributed 25% of the agency's budget, and its dissatisfaction stemmed from what it viewed as the 'politicizing' of the organization."
+        }
+      ]
+    },
+    {
+      "topic": "Social Issues",
+      "articles": [
+        {
+          "headline": "More Men Are Diving Into the Secretarial Pool",
+          "summary": "Thousands of men were reportedly entering the secretarial field after finding opportunities in other fields shrinking. Many males felt the secretarial route was the surest step up the corporate ladder. Bureau of Labor Statistics figures showed 3,200,000 secretaries in the US in 1974, with 28,900 being male, up from 13,000 in 1964."
+        },
+        {
+          "headline": "And as the Gaspers of the World Unite, Nonsmokers Become Fashionably Cool",
+          "summary": "The article noted that smoking had finally become unfashionable in some circles and 'unconscionable' in others. Several antismoking groups were mentioned, including Group Against Smoking Pollution (GASP), Action on Smoking and Health (ASH), and the National Interagency Council on Smoking and Health."
+        },
+        {
+          "headline": "Case of Karen Quinlan Gives Hospital Maintenance and Security Problems",
+          "summary": "The article described maintenance and security conditions at St. Clare's Hospital in Denville, NJ, where Karen Anne Quinlan was being kept alive while her parents sought court permission to remove her from life support systems."
+        }
+      ]
+    }
+  ]
+}

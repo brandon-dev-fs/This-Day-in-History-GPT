@@ -35,8 +35,8 @@ def openai_get_summary(articles):
     ]
     response = client.chat.completions.create(
         model = MODEL_NAME,
-        max_completion_tokens = 4000,
-        temperature = 0.0,
+        max_completion_tokens = 3300,
+        temperature = 0.6,
         messages = chat_messages,
     )
 

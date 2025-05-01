@@ -1,0 +1,109 @@
+{
+  "date": "1935-03-05",
+  "summary": "On March 5, 1935, President Roosevelt made headlines by urging Congress to replace ocean mail contracts with direct subsidies for American shipping, aiming to strengthen the merchant marine. Internationally, Britain announced plans to increase its armed forces in response to perceived threats and the failure of disarmament pacts, while tensions continued in Greece with government forces routing Macedonian rebels. Economic news was dominated by the sharp decline in the value of the British pound, affecting commodity and stock markets worldwide. Domestically, the Supreme Court struck down parts of New York's milk control laws, and Congress debated major relief and infrastructure spending. Other notable stories included a murder case in Missouri unraveling when the supposed victim was found alive, and continued unrest in Mexico and Europe.",
+  "top_story": {
+    "headline": "SUBSIDIES TO SHIP LINES ARE ASKED BY ROOSEVELT, ENDING MAIL CONTRACTS; PRESENT PLAN ASSAILED Some Lines Are Accused of Subsidiary Abuses, Excessive Salaries. DEFENSE VALUE DOUBTED President Wants Loans for Shipbuilding Terminated as a 'Failure.' FOR NORMAL MAIL RATES Subsidies Would Be Granted to Maintain an Adequate Merchant Marine. ROOSEVELT ASKS FOR SHIP SUBSIDIES",
+    "summary": "President Roosevelt, in a message to Congress, urged the replacement of ocean mail contracts with direct government subsidies to support the American merchant marine. He criticized the current system for abuses and inefficiency, and called for an end to shipbuilding loans, labeling them a failure. The President argued that direct subsidies would better ensure a strong and adequate merchant fleet for national defense and commerce."
+  },
+  "other_top_stories": [
+    {
+      "headline": "Britain to Increase Arms; Loss of Faith in Pacts Seen; White Paper Cites Weakness of Security Treaties, German Peril and Rearming of Japan, Russia and United States. BRITAIN WILL ADD TO ARMED FORCES",
+      "summary": "The British government presented a White Paper to Parliament announcing plans to increase defense spending and expand the armed forces. The move was justified by the failure of other nations to follow Britain's disarmament lead, the rearmament of Germany, and growing threats from Japan, Russia, and the United States."
+    },
+    {
+      "headline": "GREEK ARMY ROUTS MACEDONIA REBELS; Loyal Troops Win a Smashing Victory, Driving Poorly-Armed Foes Across River Struma.",
+      "summary": "Greek government forces achieved a decisive victory over Macedonian rebels, driving them across the River Struma. The government denied reports of a separate government being proclaimed in Crete, and began court-martial trials of captured rebels."
+    },
+    {
+      "headline": "LONDON UNMOVED AS POUND SLUMPS; Early Decline Ends as Sales of Dollars Appear and Close Is Down 4 1/8 Cents.",
+      "summary": "The British pound experienced a sharp decline, causing volatility in global commodity and financial markets. Despite the drop, London financial circles remained calm, with some stabilization by the end of the trading day."
+    },
+    {
+      "headline": "U.S. COURT RULES ALBANY VIOLATES INTERSTATE LAW IN CONTROL OF BULK MILK; CAN FIX BOTTLED PRICE Two Decisions Affect Product Bought Outside the State. TRAFFIC BARRIERS BARRED Denial of License to Distributers for Resale Is Declared Invalid. CURB LIKENED TO DUTIES Ruling Says All Such Control Is Vested in Federal Government by Constitution. U.S. COURT UPSETS STATE MILK LAWS",
+      "summary": "The Supreme Court ruled that New York State's control over bulk milk purchases from out-of-state sources violated the Constitution's interstate commerce provisions, though it upheld the state's right to set prices for bottled milk. The decision was seen as a significant limitation on state economic regulation."
+    }
+  ],
+  "topics": [
+    {
+      "topic": "International Affairs",
+      "stories": [
+        {
+          "headline": "Britain to Increase Arms; Loss of Faith in Pacts Seen; White Paper Cites Weakness of Security Treaties, German Peril and Rearming of Japan, Russia and United States. BRITAIN WILL ADD TO ARMED FORCES",
+          "summary": "Britain announced a major rearmament program, citing the failure of disarmament pacts and rising threats from Germany, Japan, and others."
+        },
+        {
+          "headline": "ITALY AND ETHIOPIA.; Geographical and Other Questions Involved in the Situation.",
+          "summary": "Italian diplomats expressed frustration over Ethiopia's delay in meeting demands for indemnity and apologies, as tensions over the Abyssinian crisis continued."
+        },
+        {
+          "headline": "JAPAN WOULD GIVE CHINA HELP ALONE; Foreign Office Is Quoted as Barring British Plan of International Loan. SHANGHAI PRESS IS BITTER Paper Warns Against Control by Powers -- Selfish Aim Seen Behind Offer.",
+          "summary": "Japan rejected British proposals for an international loan to China, preferring to offer its own credits and warning against foreign control."
+        },
+        {
+          "headline": "CHILEAN ASSAILS ARGENTINE POLICY; Diplomat Blames Buenos Aires Foreign Office for Failure to Terminate Chaco War.",
+          "summary": "A Chilean diplomat blamed Argentina for prolonging the Chaco War and interfering in regional trade agreements."
+        }
+      ]
+    },
+    {
+      "topic": "Economy & Markets",
+      "stories": [
+        {
+          "headline": "LONDON UNMOVED AS POUND SLUMPS; Early Decline Ends as Sales of Dollars Appear and Close Is Down 4 1/8 Cents.",
+          "summary": "The British pound's sharp decline unsettled global markets, but London remained calm as the currency stabilized by day's end."
+        },
+        {
+          "headline": "STOCK VALUES DROP SHARPLY IN MONTH; Aggregate on Exchange Here Is Down to $32,180,041,075 From $32,991,035,003.",
+          "summary": "The value of stocks listed on the New York Stock Exchange fell sharply in February, reflecting broader market uncertainty."
+        },
+        {
+          "headline": "FEDERAL BONDS UP IN HEAVY DEALINGS; Market on Stock Exchange Responds to Favorable Refunding Terms. FIVE NEW RECORDS SET Domestic Corporation List and the Foreign Loans Move Irregularly Lower.",
+          "summary": "U.S. government bonds saw heavy buying and set new records after the Treasury announced favorable refunding terms."
+        }
+      ]
+    },
+    {
+      "topic": "U.S. Politics & Law",
+      "stories": [
+        {
+          "headline": "ROOSEVELT AIDES REVIVE WORKS BILL; Senate Leaders, After White House Talks, Start Drive to Vote $4,880,000,000 Relief. AS PRESIDENT WANTS IT Elision of 'Prevailing Wage' Is Expected as Glass Sets a Call for Committee.",
+          "summary": "Senate leaders, following talks with President Roosevelt, began a push to pass a nearly $5 billion relief and public works bill."
+        },
+        {
+          "headline": "U.S. COURT RULES ALBANY VIOLATES INTERSTATE LAW IN CONTROL OF BULK MILK; CAN FIX BOTTLED PRICE Two Decisions Affect Product Bought Outside the State. TRAFFIC BARRIERS BARRED Denial of License to Distributers for Resale Is Declared Invalid. CURB LIKENED TO DUTIES Ruling Says All Such Control Is Vested in Federal Government by Constitution. U.S. COURT UPSETS STATE MILK LAWS",
+          "summary": "The Supreme Court limited state power over interstate commerce by striking down New York's bulk milk regulations."
+        },
+        {
+          "headline": "Johnson Attacks Coughlin and Long as Peril to Nation; Charges They Are in an Open Alliance to Fight Recovery and Incite Revolution.",
+          "summary": "General Hugh S. Johnson denounced Father Coughlin and Senator Huey Long, accusing them of undermining national recovery and inciting unrest."
+        }
+      ]
+    },
+    {
+      "topic": "Crime & Society",
+      "stories": [
+        {
+          "headline": "'MURDERED' MAN ALIVE.; Two Are Serving Sentences In Missouri for Supposed Slaying.",
+          "summary": "A man believed murdered in Missouri was found alive, raising questions about the convictions of two men serving sentences for his supposed killing."
+        },
+        {
+          "headline": "MAN AND WIFE SLAIN; HOME FOUND ABLAZE; West New York, N.J., Police Call It Murder and Suicide -- Firemen Rescue Eleven.",
+          "summary": "A double tragedy in New Jersey saw a man and wife found dead in a burning home, with police suspecting murder and suicide."
+        }
+      ]
+    },
+    {
+      "topic": "Science, Health & Culture",
+      "stories": [
+        {
+          "headline": "INVERTED STOMACH OF CHILD ADJUSTED; Surgeons Find All of Alyce MoHenry's Digestive Organs in Her Chest.",
+          "summary": "Surgeons successfully operated on a child whose digestive organs were found in her chest, a rare medical case."
+        },
+        {
+          "headline": "MUSIC NOTES",
+          "summary": "Kirsten Flagstad, Branzell, and Melchior, three Scandinavian stars, headlined a performance of 'Lohengrin' at the Brooklyn Academy."
+        }
+      ]
+    }
+  ]
+}
